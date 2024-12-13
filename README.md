@@ -2,7 +2,7 @@
 
 A modern web application for managing decentralized digital identities, built with React, TypeScript, and Tailwind CSS. This platform demonstrates the implementation of self-sovereign identity principles, allowing users to create and manage their digital identities in a decentralized manner.
 
-![Decentralized Identity Platform](https://source.unsplash.com/random/1200x630?blockchain,technology)
+![Decentralized Identity Platform](https://jazzy-bunny-f6ce22.netlify.app/)
 
 ## Features
 
@@ -105,4 +105,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Project Link: [https://github.com/your-username/decentralized-identity-platform](https://github.com/your-username/decentralized-identity-platform)
+Project Link: [https://jazzy-bunny-f6ce22.netlify.app/)
